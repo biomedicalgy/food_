@@ -128,9 +128,7 @@ border: 2px solid rgb(235, 153, 153);
 }
 
 
-img:hover{
-motion: 10deg;
-}
+ 
 
 .speciality{
 height: 100vh;
@@ -156,32 +154,32 @@ color: red;
 
 .s-1:hover{ 
 overflow: hidden;
-background-image: url("s-img-1.JPG");
+background-image: url("s-img-1.jpg");
 }
 
 
 
 .s-2:hover{ 
 overflow: hidden;
-background-image: url("s-img-2.JPG");
+background-image: url("s-img-2.jpg");
 }
 
 
 .s-3:hover{ 
 overflow: hidden;
-background-image: url("s-img-3.JPG");
+background-image: url("s-img-3.jpg");
 }
 
 
 .s-4:hover{ 
 overflow: hidden;
-background-image: url("s-img-4.JPG");
+background-image: url("s-img-4.jpg");
 }
 
 
 .s-5:hover{ 
 overflow: hidden;
-background-image: url("s-img-5.JPG");
+background-image: url("s-img-5.jpg");
 }
 
 
